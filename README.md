@@ -1,4 +1,4 @@
-## Olá! Sou Gustavo Henrique Schmitz, estudante e desenvolvedor na área de TI!
+## Olá! Sou Gustavo Henrique Schmitz! Full Stack Developer.
 <div align="center">
   <a href="https://github.com/GustavoHenriqueSchmitz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueSchmitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
