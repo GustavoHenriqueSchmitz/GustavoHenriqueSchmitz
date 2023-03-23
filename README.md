@@ -16,7 +16,7 @@
     <img align="center" alt="Gustavo-Postgres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="Gustavo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Gustavo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="./MyPhoto.jpg?width=676&height=676">
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="./MyPhoto.png?width=676&height=676">
 </div>
   
   ##
