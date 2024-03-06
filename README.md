@@ -18,7 +18,7 @@
   <img align="center" alt="Gustavo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Gustavo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg">
   <img align="center" alt="Gustavo-Arduino" height="30" width="40" src="https://github.com/philanri/arduino-icons/blob/main/images/svg/arduino_uno.svg">
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="./MyPhoto.jpg?width=676&height=676">
+  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="./MyPhoto.png?width=676&height=676">
 </div>
   
   ##
