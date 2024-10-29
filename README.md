@@ -23,9 +23,9 @@
   <img align="center" alt="Gustavo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg">
 </div></br>
 
-<div align="left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueSchmitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueSchmitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center">
 
