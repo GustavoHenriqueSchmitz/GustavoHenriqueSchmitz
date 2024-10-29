@@ -1,10 +1,14 @@
-<h2 align="center">Hello! I'm Gustavo Henrique Schmitz! Full Stack Developer.</h2>
+## Hello, I'm Gustavo Henrique Schmitz!
 <div align="center">
-  <a href="https://github.com/GustavoHenriqueSchmitz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueSchmitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="./My Github Banner.png"/>
 </div>
-<div style="display: inline_block"><br>
+
+## About me
+
+👋 Hi! I’m Gustavo Schmitz, a Full Stack Developer driven by the challenge of creating innovative solutions for complex problems. I’m passionate about crafting clean, efficient, and well-structured code, with a constant focus on building software that is both creative and impactful. Always learning, always coding.
+
+## Technologies
+<div style="display: inline_block">
   <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,14 +21,22 @@
   <img align="center" alt="Gustavo-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gustavo-git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Gustavo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg">
-  <img align="center" alt="Gustavo-Arduino" height="30" width="40" src="https://github.com/philanri/arduino-icons/blob/main/images/svg/arduino_uno.svg">
-  <img align="right" alt="Gustavo-pic" height="150" style="border-radius:50px;" src="./MyPhoto.png?width=676&height=676">
 </div>
-  
-  ##
- 
+
+<div style="display: flex; align-items: center; justify-content: space-between; padding: 2vmax 0 0 0">
+  <img height="110em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueSchmitz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div align="center">
+
+  ### Visitor Count
+  <img src="https://profile-counter.glitch.me/GustavoHenriqueSchmitz/count.svg" />
+
+</div>
+
+## 
 <div> 
-  <a href = "mailto:gustavohenriqueschmitz568@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-henrique-schmitz-684308245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
+  <a style="margin: 0 1vmax 1vmax 0;" href = "mailto:gustavohenriqueschmitz568@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a style="margin: 0 1vmax 1vmax 0;" href="https://www.linkedin.com/in/gustavo-henrique-schmitz-684308245" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a style="margin: 0 1vmax 1vmax 0;" href="https://gustavohenriqueschmitz.com" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%23333?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </div>
