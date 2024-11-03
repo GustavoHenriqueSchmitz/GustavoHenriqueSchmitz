@@ -23,13 +23,13 @@
   <img align="center" alt="Gustavo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg">
 </div></br>
 
- | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoHenriqueSchmitz&theme=tokyonight&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
- | ----------- | ----------- |
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoHenriqueSchmitz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=tokyonight"/>
+  
+  | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=tokyonight"/> |
+  | ----------- | ----------- |
+  
 </div>
+
 
 <div align="center">
 
