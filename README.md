@@ -24,7 +24,7 @@
 </div></br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight" alt="GitHub Details" width="80%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight" alt="GitHub Details" width="90%">
 </p>
 
 <div align="center">
