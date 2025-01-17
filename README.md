@@ -24,7 +24,6 @@
 </div></br>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GustavoHenriqueSchmitz&theme=tokyonight&utcOffset=-3" alt="GitHub Commits" width="40%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight" alt="GitHub Details" width="65%">
 </p>
 
