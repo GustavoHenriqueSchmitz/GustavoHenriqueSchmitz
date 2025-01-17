@@ -23,12 +23,22 @@
   <img align="center" alt="Gustavo-NestJS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg">
 </div></br>
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px;">
   
-  | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=tokyonight"/> |
-  | ----------- | ----------- |
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 600px;">
+    <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight" 
+           alt="GitHub Details" style="width: 100%; height: auto;">
+    </a>
+  </div>
+  
+  <div style="flex: 1 1 45%; min-width: 300px; max-width: 600px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoHenriqueSchmitz&layout=compact&langs_count=7&theme=tokyonight" 
+         alt="Top Languages" style="width: 100%; height: auto;">
+  </div>
   
 </div>
+
 
 
 <div align="center">
