@@ -27,13 +27,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoHenriqueSchmitz&theme=tokyonight" alt="GitHub Details" width="90%">
 </p>
 
-<div align="center">
-
-  ### Visitor Count
-  <img src="https://profile-counter.glitch.me/GustavoHenriqueSchmitz/count.svg" />
-
-</div>
-
 ## 
 <div> 
   <a style="margin: 0 1vmax 1vmax 0;" href = "mailto:gustavohenriqueschmitz568@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
